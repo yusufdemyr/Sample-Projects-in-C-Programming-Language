@@ -1,0 +1,11 @@
+C:\Users\Admin\Desktop\C# Programs\Challanges\bin\Debug\netcoreapp3.0\Challanges.exe
+C:\Users\Admin\Desktop\C# Programs\Challanges\bin\Debug\netcoreapp3.0\Challanges.deps.json
+C:\Users\Admin\Desktop\C# Programs\Challanges\bin\Debug\netcoreapp3.0\Challanges.runtimeconfig.json
+C:\Users\Admin\Desktop\C# Programs\Challanges\bin\Debug\netcoreapp3.0\Challanges.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\C# Programs\Challanges\bin\Debug\netcoreapp3.0\Challanges.dll
+C:\Users\Admin\Desktop\C# Programs\Challanges\bin\Debug\netcoreapp3.0\Challanges.pdb
+C:\Users\Admin\Desktop\C# Programs\Challanges\obj\Debug\netcoreapp3.0\Challanges.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\C# Programs\Challanges\obj\Debug\netcoreapp3.0\Challanges.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\C# Programs\Challanges\obj\Debug\netcoreapp3.0\Challanges.AssemblyInfo.cs
+C:\Users\Admin\Desktop\C# Programs\Challanges\obj\Debug\netcoreapp3.0\Challanges.dll
+C:\Users\Admin\Desktop\C# Programs\Challanges\obj\Debug\netcoreapp3.0\Challanges.pdb

@@ -1,0 +1,22 @@
+C:\Users\ikrhn\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.0\ConsoleApp1.csprojAssemblyReference.cache
+C:\Users\ikrhn\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.0\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Users\ikrhn\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.0\ConsoleApp1.AssemblyInfo.cs
+C:\Users\ikrhn\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.0\ConsoleApp1.exe
+C:\Users\ikrhn\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.0\ConsoleApp1.deps.json
+C:\Users\ikrhn\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.0\ConsoleApp1.runtimeconfig.json
+C:\Users\ikrhn\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.0\ConsoleApp1.runtimeconfig.dev.json
+C:\Users\ikrhn\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.0\ConsoleApp1.dll
+C:\Users\ikrhn\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.0\ConsoleApp1.pdb
+C:\Users\ikrhn\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.0\ConsoleApp1.dll
+C:\Users\ikrhn\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.0\ConsoleApp1.pdb
+D:\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.0\Dice Game.exe
+D:\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.0\Dice Game.deps.json
+D:\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.0\Dice Game.runtimeconfig.json
+D:\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.0\Dice Game.runtimeconfig.dev.json
+D:\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.0\Dice Game.dll
+D:\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.0\Dice Game.pdb
+D:\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.0\ConsoleApp1.csprojAssemblyReference.cache
+D:\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.0\ConsoleApp1.AssemblyInfoInputs.cache
+D:\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.0\ConsoleApp1.AssemblyInfo.cs
+D:\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.0\Dice Game.dll
+D:\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.0\Dice Game.pdb

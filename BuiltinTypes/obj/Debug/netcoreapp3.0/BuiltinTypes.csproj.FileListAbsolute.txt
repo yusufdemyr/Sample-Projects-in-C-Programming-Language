@@ -1,0 +1,11 @@
+C:\Users\Admin\Desktop\C# Programs\BuiltinTypes\bin\Debug\netcoreapp3.0\BuiltinTypes.exe
+C:\Users\Admin\Desktop\C# Programs\BuiltinTypes\bin\Debug\netcoreapp3.0\BuiltinTypes.deps.json
+C:\Users\Admin\Desktop\C# Programs\BuiltinTypes\bin\Debug\netcoreapp3.0\BuiltinTypes.runtimeconfig.json
+C:\Users\Admin\Desktop\C# Programs\BuiltinTypes\bin\Debug\netcoreapp3.0\BuiltinTypes.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\C# Programs\BuiltinTypes\bin\Debug\netcoreapp3.0\BuiltinTypes.dll
+C:\Users\Admin\Desktop\C# Programs\BuiltinTypes\bin\Debug\netcoreapp3.0\BuiltinTypes.pdb
+C:\Users\Admin\Desktop\C# Programs\BuiltinTypes\obj\Debug\netcoreapp3.0\BuiltinTypes.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\C# Programs\BuiltinTypes\obj\Debug\netcoreapp3.0\BuiltinTypes.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\C# Programs\BuiltinTypes\obj\Debug\netcoreapp3.0\BuiltinTypes.AssemblyInfo.cs
+C:\Users\Admin\Desktop\C# Programs\BuiltinTypes\obj\Debug\netcoreapp3.0\BuiltinTypes.dll
+C:\Users\Admin\Desktop\C# Programs\BuiltinTypes\obj\Debug\netcoreapp3.0\BuiltinTypes.pdb

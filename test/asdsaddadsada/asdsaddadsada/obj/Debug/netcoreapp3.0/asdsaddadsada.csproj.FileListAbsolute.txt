@@ -1,0 +1,35 @@
+D:\test\asdsaddadsada\asdsaddadsada\bin\Debug\netcoreapp3.0\asdsaddadsada.exe
+D:\test\asdsaddadsada\asdsaddadsada\bin\Debug\netcoreapp3.0\asdsaddadsada.deps.json
+D:\test\asdsaddadsada\asdsaddadsada\bin\Debug\netcoreapp3.0\asdsaddadsada.runtimeconfig.json
+D:\test\asdsaddadsada\asdsaddadsada\bin\Debug\netcoreapp3.0\asdsaddadsada.runtimeconfig.dev.json
+D:\test\asdsaddadsada\asdsaddadsada\bin\Debug\netcoreapp3.0\asdsaddadsada.dll
+D:\test\asdsaddadsada\asdsaddadsada\bin\Debug\netcoreapp3.0\asdsaddadsada.pdb
+D:\test\asdsaddadsada\asdsaddadsada\obj\Debug\netcoreapp3.0\asdsaddadsada.AssemblyInfoInputs.cache
+D:\test\asdsaddadsada\asdsaddadsada\obj\Debug\netcoreapp3.0\asdsaddadsada.AssemblyInfo.cs
+D:\test\asdsaddadsada\asdsaddadsada\obj\Debug\netcoreapp3.0\asdsaddadsada.dll
+D:\test\asdsaddadsada\asdsaddadsada\obj\Debug\netcoreapp3.0\asdsaddadsada.pdb
+C:\Users\Admin\Desktop\test\asdsaddadsada\asdsaddadsada\bin\Debug\netcoreapp3.0\asdsaddadsada.exe
+C:\Users\Admin\Desktop\test\asdsaddadsada\asdsaddadsada\bin\Debug\netcoreapp3.0\asdsaddadsada.deps.json
+C:\Users\Admin\Desktop\test\asdsaddadsada\asdsaddadsada\bin\Debug\netcoreapp3.0\asdsaddadsada.runtimeconfig.json
+C:\Users\Admin\Desktop\test\asdsaddadsada\asdsaddadsada\bin\Debug\netcoreapp3.0\asdsaddadsada.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\test\asdsaddadsada\asdsaddadsada\bin\Debug\netcoreapp3.0\asdsaddadsada.dll
+C:\Users\Admin\Desktop\test\asdsaddadsada\asdsaddadsada\bin\Debug\netcoreapp3.0\asdsaddadsada.pdb
+C:\Users\Admin\Desktop\test\asdsaddadsada\asdsaddadsada\obj\Debug\netcoreapp3.0\asdsaddadsada.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\test\asdsaddadsada\asdsaddadsada\obj\Debug\netcoreapp3.0\asdsaddadsada.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\test\asdsaddadsada\asdsaddadsada\obj\Debug\netcoreapp3.0\asdsaddadsada.AssemblyInfo.cs
+C:\Users\Admin\Desktop\test\asdsaddadsada\asdsaddadsada\obj\Debug\netcoreapp3.0\asdsaddadsada.dll
+C:\Users\Admin\Desktop\test\asdsaddadsada\asdsaddadsada\obj\Debug\netcoreapp3.0\asdsaddadsada.pdb
+D:\masaüstü\Yusuf\Projects\C# Programs\test\asdsaddadsada\asdsaddadsada\bin\Debug\netcoreapp3.0\asdsaddadsada.exe
+D:\masaüstü\Yusuf\Projects\C# Programs\test\asdsaddadsada\asdsaddadsada\bin\Debug\netcoreapp3.0\asdsaddadsada.deps.json
+D:\masaüstü\Yusuf\Projects\C# Programs\test\asdsaddadsada\asdsaddadsada\bin\Debug\netcoreapp3.0\asdsaddadsada.runtimeconfig.json
+D:\masaüstü\Yusuf\Projects\C# Programs\test\asdsaddadsada\asdsaddadsada\bin\Debug\netcoreapp3.0\asdsaddadsada.runtimeconfig.dev.json
+D:\masaüstü\Yusuf\Projects\C# Programs\test\asdsaddadsada\asdsaddadsada\bin\Debug\netcoreapp3.0\asdsaddadsada.dll
+D:\masaüstü\Yusuf\Projects\C# Programs\test\asdsaddadsada\asdsaddadsada\bin\Debug\netcoreapp3.0\asdsaddadsada.pdb
+D:\masaüstü\Yusuf\Projects\C# Programs\test\asdsaddadsada\asdsaddadsada\obj\Debug\netcoreapp3.0\asdsaddadsada.csproj.AssemblyReference.cache
+D:\masaüstü\Yusuf\Projects\C# Programs\test\asdsaddadsada\asdsaddadsada\obj\Debug\netcoreapp3.0\asdsaddadsada.GeneratedMSBuildEditorConfig.editorconfig
+D:\masaüstü\Yusuf\Projects\C# Programs\test\asdsaddadsada\asdsaddadsada\obj\Debug\netcoreapp3.0\asdsaddadsada.AssemblyInfoInputs.cache
+D:\masaüstü\Yusuf\Projects\C# Programs\test\asdsaddadsada\asdsaddadsada\obj\Debug\netcoreapp3.0\asdsaddadsada.AssemblyInfo.cs
+D:\masaüstü\Yusuf\Projects\C# Programs\test\asdsaddadsada\asdsaddadsada\obj\Debug\netcoreapp3.0\asdsaddadsada.csproj.CoreCompileInputs.cache
+D:\masaüstü\Yusuf\Projects\C# Programs\test\asdsaddadsada\asdsaddadsada\obj\Debug\netcoreapp3.0\asdsaddadsada.dll
+D:\masaüstü\Yusuf\Projects\C# Programs\test\asdsaddadsada\asdsaddadsada\obj\Debug\netcoreapp3.0\asdsaddadsada.pdb
+D:\masaüstü\Yusuf\Projects\C# Programs\test\asdsaddadsada\asdsaddadsada\obj\Debug\netcoreapp3.0\asdsaddadsada.genruntimeconfig.cache

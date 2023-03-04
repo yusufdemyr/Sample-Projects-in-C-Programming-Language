@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "wEQYRdZTbEKL/w0qZx4orgzCccbO3+ORPlDJO9POPps0/CYXwjj7iF0oMYv9rB48RbgZjGQSdkv529zfux1m/A==",
+  "success": true,
+  "projectFilePath": "D:\\masaüstü\\Yusuf\\Projects\\C# Programs\\test\\asdsaddadsada\\asdsaddadsada\\asdsaddadsada.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\islam\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.0.3\\microsoft.netcore.app.host.win-x64.3.0.3.nupkg.sha512",
+    "C:\\Users\\islam\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
+    "C:\\Users\\islam\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.0.0\\microsoft.windowsdesktop.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\islam\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

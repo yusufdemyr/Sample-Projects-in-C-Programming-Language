@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "W43XZi5Zm6TB23cPXvvlso5fGfTh7yRX9UlPDFZmCf2859usK5jq5KxymVGdyBCsfXICPd4pg2a9jXfhkE520Q==",
+  "success": true,
+  "projectFilePath": "D:\\masaüstü\\Yusuf\\Projects\\C# Programs\\project_frog_caglar\\project_frog_caglar.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\islam\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.0.3\\microsoft.netcore.app.host.win-x64.3.0.3.nupkg.sha512",
+    "C:\\Users\\islam\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
+    "C:\\Users\\islam\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.0.0\\microsoft.windowsdesktop.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\islam\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

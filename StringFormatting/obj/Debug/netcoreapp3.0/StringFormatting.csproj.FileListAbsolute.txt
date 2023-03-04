@@ -1,0 +1,11 @@
+C:\Users\Admin\Desktop\C# Programs\StringFormatting\bin\Debug\netcoreapp3.0\StringFormatting.exe
+C:\Users\Admin\Desktop\C# Programs\StringFormatting\bin\Debug\netcoreapp3.0\StringFormatting.deps.json
+C:\Users\Admin\Desktop\C# Programs\StringFormatting\bin\Debug\netcoreapp3.0\StringFormatting.runtimeconfig.json
+C:\Users\Admin\Desktop\C# Programs\StringFormatting\bin\Debug\netcoreapp3.0\StringFormatting.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\C# Programs\StringFormatting\bin\Debug\netcoreapp3.0\StringFormatting.dll
+C:\Users\Admin\Desktop\C# Programs\StringFormatting\bin\Debug\netcoreapp3.0\StringFormatting.pdb
+C:\Users\Admin\Desktop\C# Programs\StringFormatting\obj\Debug\netcoreapp3.0\StringFormatting.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\C# Programs\StringFormatting\obj\Debug\netcoreapp3.0\StringFormatting.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\C# Programs\StringFormatting\obj\Debug\netcoreapp3.0\StringFormatting.AssemblyInfo.cs
+C:\Users\Admin\Desktop\C# Programs\StringFormatting\obj\Debug\netcoreapp3.0\StringFormatting.dll
+C:\Users\Admin\Desktop\C# Programs\StringFormatting\obj\Debug\netcoreapp3.0\StringFormatting.pdb

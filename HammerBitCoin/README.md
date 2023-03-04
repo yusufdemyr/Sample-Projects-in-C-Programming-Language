@@ -1,0 +1,3 @@
+Title: Cryptocurrency Trading Simulation Game
+
+Description: A console-based simulation game where you play as a cryptocurrency trader trying to make a profit by buying and selling bitcoins. You must manage your employees, feed your team, and watch out for hackers who could steal your hard-earned bitcoins. Can you become a successful cryptocurrency trader and earn a high score? Play now and find out!

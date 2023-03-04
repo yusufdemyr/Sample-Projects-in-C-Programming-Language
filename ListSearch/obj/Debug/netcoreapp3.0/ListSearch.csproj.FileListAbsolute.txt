@@ -1,0 +1,11 @@
+C:\Users\Admin\Desktop\C# Programs\ListSearch\bin\Debug\netcoreapp3.0\ListSearch.exe
+C:\Users\Admin\Desktop\C# Programs\ListSearch\bin\Debug\netcoreapp3.0\ListSearch.deps.json
+C:\Users\Admin\Desktop\C# Programs\ListSearch\bin\Debug\netcoreapp3.0\ListSearch.runtimeconfig.json
+C:\Users\Admin\Desktop\C# Programs\ListSearch\bin\Debug\netcoreapp3.0\ListSearch.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\C# Programs\ListSearch\bin\Debug\netcoreapp3.0\ListSearch.dll
+C:\Users\Admin\Desktop\C# Programs\ListSearch\bin\Debug\netcoreapp3.0\ListSearch.pdb
+C:\Users\Admin\Desktop\C# Programs\ListSearch\obj\Debug\netcoreapp3.0\ListSearch.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\C# Programs\ListSearch\obj\Debug\netcoreapp3.0\ListSearch.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\C# Programs\ListSearch\obj\Debug\netcoreapp3.0\ListSearch.AssemblyInfo.cs
+C:\Users\Admin\Desktop\C# Programs\ListSearch\obj\Debug\netcoreapp3.0\ListSearch.dll
+C:\Users\Admin\Desktop\C# Programs\ListSearch\obj\Debug\netcoreapp3.0\ListSearch.pdb

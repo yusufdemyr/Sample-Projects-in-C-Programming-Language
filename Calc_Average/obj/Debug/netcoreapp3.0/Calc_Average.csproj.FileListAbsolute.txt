@@ -1,0 +1,11 @@
+C:\Users\Admin\Desktop\C# Programs\Calc_Average\obj\Debug\netcoreapp3.0\Calc_Average.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\C# Programs\Calc_Average\obj\Debug\netcoreapp3.0\Calc_Average.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\C# Programs\Calc_Average\obj\Debug\netcoreapp3.0\Calc_Average.AssemblyInfo.cs
+C:\Users\Admin\Desktop\C# Programs\Calc_Average\bin\Debug\netcoreapp3.0\Calc_Average.exe
+C:\Users\Admin\Desktop\C# Programs\Calc_Average\bin\Debug\netcoreapp3.0\Calc_Average.deps.json
+C:\Users\Admin\Desktop\C# Programs\Calc_Average\bin\Debug\netcoreapp3.0\Calc_Average.runtimeconfig.json
+C:\Users\Admin\Desktop\C# Programs\Calc_Average\bin\Debug\netcoreapp3.0\Calc_Average.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\C# Programs\Calc_Average\bin\Debug\netcoreapp3.0\Calc_Average.dll
+C:\Users\Admin\Desktop\C# Programs\Calc_Average\bin\Debug\netcoreapp3.0\Calc_Average.pdb
+C:\Users\Admin\Desktop\C# Programs\Calc_Average\obj\Debug\netcoreapp3.0\Calc_Average.dll
+C:\Users\Admin\Desktop\C# Programs\Calc_Average\obj\Debug\netcoreapp3.0\Calc_Average.pdb

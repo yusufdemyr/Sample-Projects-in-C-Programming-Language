@@ -1,0 +1,11 @@
+C:\Users\Admin\Desktop\C# Programs\BoolExp\bin\Debug\netcoreapp3.0\BoolExp.exe
+C:\Users\Admin\Desktop\C# Programs\BoolExp\bin\Debug\netcoreapp3.0\BoolExp.deps.json
+C:\Users\Admin\Desktop\C# Programs\BoolExp\bin\Debug\netcoreapp3.0\BoolExp.runtimeconfig.json
+C:\Users\Admin\Desktop\C# Programs\BoolExp\bin\Debug\netcoreapp3.0\BoolExp.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\C# Programs\BoolExp\bin\Debug\netcoreapp3.0\BoolExp.dll
+C:\Users\Admin\Desktop\C# Programs\BoolExp\bin\Debug\netcoreapp3.0\BoolExp.pdb
+C:\Users\Admin\Desktop\C# Programs\BoolExp\obj\Debug\netcoreapp3.0\BoolExp.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\C# Programs\BoolExp\obj\Debug\netcoreapp3.0\BoolExp.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\C# Programs\BoolExp\obj\Debug\netcoreapp3.0\BoolExp.AssemblyInfo.cs
+C:\Users\Admin\Desktop\C# Programs\BoolExp\obj\Debug\netcoreapp3.0\BoolExp.dll
+C:\Users\Admin\Desktop\C# Programs\BoolExp\obj\Debug\netcoreapp3.0\BoolExp.pdb

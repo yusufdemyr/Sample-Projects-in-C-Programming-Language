@@ -1,0 +1,1 @@
+This Github repository contains the source codes of various sample projects written in C# programming language. These projects include games, calculators, string manipulations, and many more examples in different areas. By using this repository, you can review sample projects while learning C# and develop your own projects.
